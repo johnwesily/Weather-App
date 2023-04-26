@@ -1,0 +1,55 @@
+html{
+    background-color: #d4f1f9;
+  
+}
+
+form{
+    margin:20px;
+}
+
+input{
+    width: 60%;
+    margin: 10px;
+  padding: 10px;
+  font-size: 1.2em;
+  font-family: inherit;
+  
+}
+
+button{
+  
+    padding: 10%;
+    margin: 10%;
+    border: 10%;
+}
+
+img{
+    width: 90%;
+     height: auto;
+}
+
+
+
+.tempinfo{
+    padding: 10%;
+    margin: 10%;
+    border: 10%;
+    background-color: white;
+}
+
+.inputform{
+    background-color: white;
+    
+}
+
+.main{
+    padding-top: 17%;
+    background-color: #d4f1f9;
+}
+
+
+
+#root{
+    background-color: #d4f1f9;
+}
+
